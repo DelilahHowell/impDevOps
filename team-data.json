@@ -1,0 +1,258 @@
+{
+  "devs":[
+    {
+    "name": "Alyssa Birt",
+    "pic": "lib/team-pics/alyssa_birt.jpg",
+    "major": "IT",
+    "grad": "Fall 2020", 
+    "github": "AlyKitty", 
+    "details":   
+      {
+        "Enneagram Type": "5. Loyalist (& 4. Artist too)"
+      }
+    },
+    {
+      "name": "Darian Burden",
+      "pic": "lib/team-pics/darian_burden.jpg",
+      "major": "CIS",
+      "grad": "Fall 2020", 
+      "github": "darianb8771", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Megan Coleman",
+      "pic": "lib/team-pics/megan_coleman.jpg",
+      "major": "CIS",
+      "grad": "Fall 2020", 
+      "github": "Mcoleman20", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Tucker Cook",
+      "pic": "lib/team-pics/tucker_cook.jpg",
+      "major": "CIS",
+      "grad": "Fall 2020", 
+      "github": "mcook8", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Chase Holt",
+      "pic": "lib/team-pics/chase_holt.jpg",
+      "major": "CIS",
+      "grad": "Fall 2020", 
+      "github": "Slavk1ng", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Gavin Honeycutt",
+      "pic": "lib/team-pics/default.png",
+      "major": "CIS",
+      "grad": "Spring 2021", 
+      "github": "ghoneycutt18", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    
+    {
+      "name": "Delilah Howell",
+      "pic": "lib/team-pics/default.png",
+      "major": "CIS",
+      "grad": "Fall 2020", 
+      "github": "DelilahHowell", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Ethan Montgomery",
+      "pic": "lib/team-pics/default.png",
+      "major": "CIS",
+      "grad": "Fall 2020", 
+      "github": "", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Andrew Folkerts",
+      "pic": "lib/team-pics/andrew_folkerts.jpg",
+      "major": "IT",
+      "grad": "Fall 2020", 
+      "github": "Desya42", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Garrett Duplantis",
+      "pic": "lib/team-pics/default.png",
+      "major": "CIS",
+      "grad": "Fall 2020", 
+      "github": "gaplant", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Hobie A. Aljohani",
+      "pic": "lib/team-pics/default.png",
+      "major": "CIS",
+      "grad": "Fall 2020", 
+      "github": "Aaljohani-hobie", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Jaylen Johnson",
+      "pic": "lib/team-pics/jaylen_johnson.jpg",
+      "major": "CIS",
+      "grad": "Fall 2020", 
+      "github": "jjohnson55555", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Matt Peck",
+      "pic": "lib/team-pics/matt_peck.jpg",
+      "major": "CIS",
+      "grad": "Fall 2020", 
+      "github": "Mattp281", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Maurice Elmore, Jr.",
+      "pic": "lib/team-pics/maurice_elmore_jr.jpg",
+      "major": "CIS",
+      "grad": "Fall 2020", 
+      "github": "Melmore23", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Mason Cantrell",
+      "pic": "lib/team-pics/mason_cantrell.jpg",
+      "major": "CIS",
+      "grad": "Fall 2020", 
+      "github": "Mcantrelldev", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "JJ McCormick",
+      "pic": "lib/team-pics/jeffrey_mccormick.jpg",
+      "major": "CIS",
+      "grad": "Fall 2020", 
+      "github": "jeffreymccormick8", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Lucas Owens",
+      "pic": "lib/team-pics/lucas_owens.jpg",
+      "major": "CIS",
+      "grad": "Fall 2020", 
+      "github": "Lmowens", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Joy Parker",
+      "pic": "lib/team-pics/joy_parker.jpg",
+      "major": "CIS",
+      "grad": "Fall 2020", 
+      "github": "lovejoyy", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Reagan Howard",
+      "pic": "lib/team-pics/reagan_howard.jpg",
+      "major": "CIS",
+      "grad": "Spring 2021", 
+      "github": "Rgnhoward", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Surya Singh",
+      "pic": "lib/team-pics/surya.jpg",
+      "major": "CS",
+      "grad": "Fall 2020", 
+      "github": "TH1SMACHINE", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Dakota Terry",
+      "pic": "lib/team-pics/dakota_terry.jpg",
+      "major": "CIS",
+      "grad": "Spring 2021", 
+      "github": "KadotaTerry", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Vonte Alexander",
+      "pic": "lib/team-pics/quanny.jpg",
+      "major": "IT",
+      "grad": "Fall 2020", 
+      "github": "Quanny36", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    },
+    {
+      "name": "Michael Zimmerman",
+      "pic": "lib/team-pics/default.png",
+      "major": "CIS",
+      "grad": "Fall 2020", 
+      "github": "mzimmerman0", 
+      "details":   
+        {
+          "Enneagram Type": ""
+        }
+    }
+]
+}
